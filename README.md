@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Artemka21321
-- 👀 I’m interested in AR and VR, Unity,c#, Unreal Engine, C++, Phyton
-- 🌱 I’m currently learning AR, unity
+- 👀 I’m interested in Unity,c#, Unreal Engine, C++, Phyton, web and AI
+- 🌱 I’m currently learning c++ in Academy 
 
